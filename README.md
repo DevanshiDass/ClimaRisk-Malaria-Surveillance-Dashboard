@@ -107,30 +107,21 @@ The model predicts malaria cases and classifies risk as:
 - High  
 
 ---
-## 🖥️ Dashboard Screenshots
+## 🧠 Dashboard Overview – Key Risk Indicators
+![Dashboard KPIs](assets/dashboard_overview_kpis.png.png)
 
-### 🔹 KPI Overview & Risk Zones
-![KPI Overview](assets/dashboard_overview_kpis.png.png)
+## 🌦 Climate Drivers of Malaria Risk
+![Climate Drivers](assets/dashboard_climate_drivers.png.png)
 
----
+## 📈 Trends, Seasonality & Heatmap
+![Trends and Heatmap](assets/dashboard_trends_seasonality and heatmap.png.png)
 
-### 🔹 Regional Risk Zones
-![Regional Risk Zones](assets/dashboard_climate_drivers.png.png)
+## 🛠 Custom Graph Builder
+![Custom Graph Builder](assets/dashboard_custom_graph_builder.png.png)
 
----
-
-### 🔹 Trends, Seasonality & Heatmap
-![Trends & Seasonality](assets/dashboard_trends_seasonality and heatmap.png.png)
-
----
-
-### 🔹 Prediction Simulator
+## 🤖 Malaria Risk Prediction Simulator
 ![Prediction Simulator](assets/dashboard_prediction_simulator.png.png)
 
----
-
-### 🔹 Custom Graph Builder
-![Custom Graph Builder](assets/dashboard_custom_graph_builder.png.png)
 
 ---
 ## 🧩 Technology Stack
