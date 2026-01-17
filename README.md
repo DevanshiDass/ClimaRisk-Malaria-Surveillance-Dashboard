@@ -120,7 +120,7 @@ The model predicts malaria cases and classifies risk as:
 ---
 
 ### 🔹 Trends, Seasonality & Heatmap
-![Trends & Seasonality](assets/dashboard_trends_seasonality_and_heatmap.png.png)
+![Trends & Seasonality](assets/dashboard_trends_seasonality and heatmap.png.png)
 
 ---
 
