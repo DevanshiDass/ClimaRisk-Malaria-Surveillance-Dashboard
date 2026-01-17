@@ -107,7 +107,32 @@ The model predicts malaria cases and classifies risk as:
 - High  
 
 ---
+## 🖥️ Dashboard Screenshots
 
+### 🔹 KPI Overview & Risk Zones
+![KPI Overview](assets/dashboard_overview_kpis.png)
+
+---
+
+### 🔹 Regional Risk Zones
+![Regional Risk Zones](assets/dashboard_climate_drivers.png)
+
+---
+
+### 🔹 Trends, Seasonality & Heatmap
+![Trends & Seasonality](assets/dashboard_trends_seasonality_and_heatmap.png)
+
+---
+
+### 🔹 Prediction Simulator
+![Prediction Simulator](assets/dashboard_prediction_simulator.png)
+
+---
+
+### 🔹 Custom Graph Builder
+![Custom Graph Builder](assets/dashboard_custom_graph_builder.png)
+
+---
 ## 🧩 Technology Stack
 
 - **Programming Language:** Python  
