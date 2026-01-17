@@ -114,7 +114,7 @@ The model predicts malaria cases and classifies risk as:
 ![Climate Drivers](assets/dashboard_climate_drivers.png.png)
 
 ## 📈 Trends, Seasonality & Heatmap
-![Trends and Heatmap](assets/dashboard_trends_seasonality and heatmap.png.png)
+![Trends and Heatmap](assets/dashboard_trends_seasonality%20and%20heatmap.png.png)
 
 ## 🛠 Custom Graph Builder
 ![Custom Graph Builder](assets/dashboard_custom_graph_builder.png.png)
